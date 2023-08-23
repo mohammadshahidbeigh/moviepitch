@@ -9,7 +9,7 @@ $ npm start
 
 # MoviePitch
 
-# MoviePitch is a web application that generates creative responses to movie outlines using the OpenAI GPT-3.5 language model. It's a fun project that showcases the capabilities of GPT-3.5 and how it can generate engaging content based on input prompts.
+ MoviePitch is a web application that generates creative responses to movie outlines using the OpenAI GPT-3.5 language model. It's a fun project that showcases the capabilities of GPT-3.5 and how it can generate engaging content based on input prompts.
 
 ## Features
 
@@ -27,14 +27,5 @@ $ npm start
 4. Enter a movie outline in the provided text area and click the "Send" button.
 5. The AI's response to the outline will be displayed below.
 
-## Installation
-
-To set up this project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/movie-boss-ai.git
-   ```
 
 Happy Coding!
