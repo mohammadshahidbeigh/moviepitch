@@ -43,6 +43,7 @@ This project relies on the following technologies and libraries:
 
 
 -- Acknowledgments
+
 This project was inspired by the capabilities of the text-davinci-003 model developed by OpenAI. Special thanks to the OpenAI team for their efforts in pushing the boundaries of natural language processing.
 
 Happy Coding!
