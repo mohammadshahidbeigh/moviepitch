@@ -1,13 +1,7 @@
 # MoviePitch
 
-Quick start:
+![Screenshot_20230825_204712](https://github.com/mohammadshahidbeigh/moviepitch/assets/85876937/5fbf1f38-46b1-4002-a0bd-46aded028d10)
 
-```
-$ npm install
-$ npm start
-```
-
-# MoviePitch
 
  MoviePitch is a web application that generates creative responses to movie outlines using the OpenAI text-davinci-003 model. It's a fun project that showcases the capabilities of text-DaVinci-003 with the "few-shot approach method" and how it can generate engaging content based on input prompts and an image generated based on the concept.
 
@@ -46,4 +40,10 @@ This project relies on the following technologies and libraries:
 
 This project was inspired by the capabilities of the text-davinci-003 model developed by OpenAI. Special thanks to the OpenAI team for their efforts in pushing the boundaries of natural language processing.
 
+Quick start:
+
+```
+$ npm install
+$ npm start
+```
 Happy Coding!
